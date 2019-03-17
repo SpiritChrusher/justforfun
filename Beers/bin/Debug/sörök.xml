@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<sörök>
+  <sör név = "Soproni APA">
+    <alkohol>5.5</alkohol>
+    <íz>Komlós, kesernyés, kellemes ízvilágú</íz>
+    <származás>magyar</származás>
+    <típus>"American Pale Ale"</típus>
+    <fogyasztás>ivósör</fogyasztás>
+    <ár>260</ár>
+    <minőség>7</minőség>
+  </sör>
+
+  <sör név = "Soproni IPA">
+    <alkohol>4.8</alkohol>
+    <íz>Nem igazi IPA, gyümölcsös, nem túl erős</íz>
+    <származás>magyar</származás>
+    <típus>Indian Pale Ale</típus>
+    <fogyasztás>ivósör</fogyasztás>
+    <ár>260</ár>
+    <minőség>6</minőség>
+  </sör>
+
+  <sör név = "Primator">
+    <alkohol>4.0</alkohol>
+    <íz>Basic cseh típusú sör</íz>
+    <típus>Lager</típus>
+    <származás>magyar</származás>
+    <fogyasztás>ivósör</fogyasztás>
+    <ár>300</ár>
+    <minőség>0</minőség>
+  </sör>
+
+  <sör név = "Steam Brew Imperial Stout">
+    <alkohol>4.8</alkohol>
+    <íz>Komlós, kesernyés, kellemes ízvilágú</íz>
+    <típus>Imparial Stout</típus>
+    <származás>???</származás>
+    <fogyasztás>félig ivósör</fogyasztás>
+    <ár>360</ár>
+    <minőség>9</minőség>
+  </sör>
+
+  <sör név = "Kozel">
+    <alkohol>4.6</alkohol>
+    <íz>Komlós, kellemes ízvilágú</íz>
+    <típus>Lager</típus>
+    <származás>Cseh</származás>
+    <fogyasztás>ivósör</fogyasztás>
+    <ár> 260</ár>
+    <minőség>0</minőség>
+  </sör>
+
+  <sör név = "Sixtusbräu">
+    <alkohol>4.2</alkohol>
+    <íz>Basic német sör</íz>
+    <származás>német</származás>
+    <típus>Lager</típus>
+    <fogyasztás>ivósör</fogyasztás>
+    <ár>0</ár>
+    <minőség>0</minőség>
+  </sör>
+
+  <sör név = "Karlskrone">
+    <alkohol>5.0</alkohol>
+    <íz>kellemes ízű, nem túl tolakodóan búztasör</íz>
+    <származás>Német</származás>
+    <típus>Búzasör</típus>
+    <fogyasztás>ivósör</fogyasztás>
+    <ár>0</ár>
+    <minőség>0</minőség>
+  </sör>
+
+</sörök>

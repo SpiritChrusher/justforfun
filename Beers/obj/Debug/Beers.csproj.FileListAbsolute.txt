@@ -1,0 +1,14 @@
+C:\Users\Nergal\source\repos\Beers\Beers\bin\Debug\Beers.exe.config
+C:\Users\Nergal\source\repos\Beers\Beers\bin\Debug\Beers.exe
+C:\Users\Nergal\source\repos\Beers\Beers\bin\Debug\Beers.pdb
+C:\Users\Nergal\source\repos\Beers\Beers\obj\Debug\Beers.csprojAssemblyReference.cache
+C:\Users\Nergal\source\repos\Beers\Beers\obj\Debug\Beers.Properties.Resources.resources
+C:\Users\Nergal\source\repos\Beers\Beers\obj\Debug\Beers.csproj.GenerateResource.cache
+C:\Users\Nergal\source\repos\Beers\Beers\obj\Debug\Beers.csproj.CoreCompileInputs.cache
+C:\Users\Nergal\source\repos\Beers\Beers\obj\Debug\Beers.exe
+C:\Users\Nergal\source\repos\Beers\Beers\obj\Debug\Beers.pdb
+C:\Users\Nergal\source\repos\Beers\Beers\obj\Debug\Beers.Menu.resources
+C:\Users\Nergal\source\repos\Beers\Beers\obj\Debug\Beers.nevszerint.resources
+C:\Users\Nergal\source\repos\Beers\Beers\bin\Debug\sörök.xml
+C:\Users\Nergal\source\repos\Beers\Beers\obj\Debug\Beers.Alkoholszerint.resources
+C:\Users\Nergal\source\repos\Beers\Beers\obj\Debug\Beers.Mindensör.resources
